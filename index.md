@@ -10,7 +10,7 @@
             <a-entity
             position="0 0 0"
             scale="0.05 0.05 0.05"
-            gltf-model="src: url(/image-tracking/nft/trex/scene.gltf);"
+            gltf-model="src: url(image-tracking/nft/trex/scene.gltf);"
             ></a-entity>
         </a-marker>
         <a-entity camera></a-entity>
