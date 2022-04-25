@@ -1,0 +1,563 @@
+<RealityCapture version="1.2.0.17385" sceneRevision="85" sceneId="{E2B0E4EC-3B48-4E74-ACF6-B41580D739AC}">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7198.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7199.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7204.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7205.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7210.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7211.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7212.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7213.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7214.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7215.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7216.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7217.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7218.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7219.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7227.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7228.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7229.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7230.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7231.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7232.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7233.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7234.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7235.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7236.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7237.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7238.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7239.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7240.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7241.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7242.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7243.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7244.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7245.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7246.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7247.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7248.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7249.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7250.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7251.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7252.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7253.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7254.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7255.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7256.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7257.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7258.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7259.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7260.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7261.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7262.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7263.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7264.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7265.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7266.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7267.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7268.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7269.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7270.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7271.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7272.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7273.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7274.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7275.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7276.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7277.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7279.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7280.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7281.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7282.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7283.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7284.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7285.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7286.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7287.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7288.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7289.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7290.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7291.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7292.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7293.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7294.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7295.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7296.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7297.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7298.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7299.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7300.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7301.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7302.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7303.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7304.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7305.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7306.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7307.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7308.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7309.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7310.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7311.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7312.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7313.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_7314.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9054.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9055.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9056.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9057.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9058.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9059.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9060.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9065.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9066.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9068.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9069.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9070.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9071.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9072.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9073.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9074.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9075.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9076.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9077.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9078.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9079.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9080.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9081.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9082.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9083.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9084.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9085.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9086.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9087.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9088.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9089.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9090.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9091.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9092.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9093.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9094.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9095.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9096.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9097.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9098.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9099.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9100.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9101.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9102.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9103.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9104.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9105.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9106.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9107.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9108.JPG" flags="16">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\hat\IMG_9109.JPG" flags="16">
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{FB7869A7-389F-43B2-8845-02E31FA6997A}">
+        <component name="Component 0" id="{F5AE6885-1C33-4528-AF55-1C4296799388}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm0.dat" selectedModel="0" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization0.dat" />
+            <metadata fileName="big_chonks\metadata0.dat"/>
+            <model name="Model 1" fileName="big_chonks\model0.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000000-0000-0000-0000-000000000000}" >
+            </model>
+        </component>
+        <component name="Component 1" id="{F279F632-778B-4B5E-AB8B-C283D018EA98}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm1.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization1.dat" />
+            <metadata fileName="big_chonks\metadata1.dat"/>
+        </component>
+        <component name="Component 2" id="{301DCE38-C9B8-4331-BCD4-E0756EA07655}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm2.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization2.dat" />
+            <metadata fileName="big_chonks\metadata2.dat"/>
+        </component>
+        <component name="Component 3" id="{F77C8088-4CC8-4F83-A47C-972659522BD6}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm3.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization3.dat" />
+            <metadata fileName="big_chonks\metadata3.dat"/>
+        </component>
+        <component name="Component 4" id="{BDA3672B-5412-4E8B-A52C-AEA1573F9491}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm4.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization4.dat" />
+            <metadata fileName="big_chonks\metadata4.dat"/>
+        </component>
+        <component name="Component 5" id="{417F0C38-B22B-4446-BAF7-D41A5C8DBCC3}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm5.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization5.dat" />
+            <metadata fileName="big_chonks\metadata5.dat"/>
+        </component>
+        <component name="Component 6" id="{118384F5-EF23-48E2-9A61-EDBC9AF8E3B5}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm6.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization6.dat" />
+            <metadata fileName="big_chonks\metadata6.dat"/>
+        </component>
+        <component name="Component 7" id="{298F2639-6299-4D7C-8174-E1C25F64BD18}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm7.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization7.dat" />
+            <metadata fileName="big_chonks\metadata7.dat"/>
+        </component>
+        <component name="Component 8" id="{A15B033C-0D2E-40D1-9924-088CB7FBAC75}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm8.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization8.dat" />
+            <metadata fileName="big_chonks\metadata8.dat"/>
+        </component>
+        <component name="Component 9" id="{2E0788A3-76A4-462E-A272-39E2A3FE5ABA}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm9.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization9.dat" />
+            <metadata fileName="big_chonks\metadata9.dat"/>
+        </component>
+        <component name="Component 10" id="{CCAD419F-66BC-4775-A284-0FA8F411B867}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm10.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization10.dat" />
+            <metadata fileName="big_chonks\metadata10.dat"/>
+        </component>
+        <component name="Component 11" id="{A0880FC5-3B27-4C7D-BF7F-0CE336FA7C23}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm11.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization11.dat" />
+            <metadata fileName="big_chonks\metadata11.dat"/>
+        </component>
+        <component name="Component 12" id="{9F9E95EE-F7D2-4135-8031-7B71F12A9230}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm12.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization12.dat" />
+            <metadata fileName="big_chonks\metadata12.dat"/>
+        </component>
+        <component name="Component 13" id="{0C83DEDF-1675-48F6-B9AF-F829DFD8F879}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm13.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization13.dat" />
+            <metadata fileName="big_chonks\metadata13.dat"/>
+        </component>
+        <component name="Component 14" id="{19924F7D-9827-4830-A419-C7CBD8818EA1}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm14.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization14.dat" />
+            <metadata fileName="big_chonks\metadata14.dat"/>
+        </component>
+        <component name="Component 0 (1)" id="{6EAC390A-717B-402F-A7ED-2227B02D11A1}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm15.dat" selectedModel="0" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization15.dat" />
+            <metadata fileName="big_chonks\metadata15.dat"/>
+            <model name="Model 1" fileName="big_chonks\model1.dat" unwrappedArea="5.6748029560768191e+02" unwrappLargeTriRemThr="10.000000" minimalTexelSize="6.5646544098854065e-03" texturesUtilization="7.9630661010742188e-01" texelSize="3.7865999620407820e-03" chartsGutterSize="2" averageEdgeLength="3.8902165475550136e-02" coloringStyle="2" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="0F48D468-4E6A-4A8B-A38E-16E5403856502022ec7a0aac8600761e780828f3210c" cleanMark="2" selectedTxLayerGuid="{4B5BF68A-36C2-41D2-9518-CAC0CC34CA15}" >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="48" id="{4B5BF68A-36C2-41D2-9518-CAC0CC34CA15}" />
+                </textures>
+            </model>
+        </component>
+        <component name="Component 1 (1)" id="{EA871DE0-3F5E-4BAA-87D9-E2A801E1CE05}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm16.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization16.dat" />
+            <metadata fileName="big_chonks\metadata16.dat"/>
+        </component>
+        <component name="Component 2 (1)" id="{4712D5DB-121B-4BA5-BEB8-0DEFBBADD265}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm17.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization17.dat" />
+            <metadata fileName="big_chonks\metadata17.dat"/>
+        </component>
+        <component name="Component 3 (1)" id="{36F1C2A5-5BC8-438A-83B1-FC002D318607}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm18.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization18.dat" />
+            <metadata fileName="big_chonks\metadata18.dat"/>
+        </component>
+        <component name="Component 4 (1)" id="{FBF46A26-A6DD-477F-9FA0-88279BF006FC}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm19.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization19.dat" />
+            <metadata fileName="big_chonks\metadata19.dat"/>
+        </component>
+        <component name="Component 5 (1)" id="{ED88DD18-73DC-40F5-827C-06547BACCE9F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm20.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization20.dat" />
+            <metadata fileName="big_chonks\metadata20.dat"/>
+        </component>
+        <component name="Component 6 (1)" id="{A32EE01C-256D-4BEA-BFAC-88981741C487}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm21.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization21.dat" />
+            <metadata fileName="big_chonks\metadata21.dat"/>
+        </component>
+        <component name="Component 7 (1)" id="{3517DE44-98CF-4768-836D-5967D147A648}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm22.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization22.dat" />
+            <metadata fileName="big_chonks\metadata22.dat"/>
+        </component>
+        <component name="Component 8 (1)" id="{237B995D-5C10-4CB7-9860-6E6DEEB7041D}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm23.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization23.dat" />
+            <metadata fileName="big_chonks\metadata23.dat"/>
+        </component>
+        <component name="Component 9 (1)" id="{E98AAAEF-6047-47BF-9120-111038D5309F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm24.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization24.dat" />
+            <metadata fileName="big_chonks\metadata24.dat"/>
+        </component>
+        <component name="Component 10 (1)" id="{EB3AD1A6-E433-474D-BAF7-2006E725A820}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm25.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization25.dat" />
+            <metadata fileName="big_chonks\metadata25.dat"/>
+        </component>
+        <component name="Component 11 (1)" id="{E1D17FA9-1656-4ADB-8209-EC1C6BD0C91C}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm26.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization26.dat" />
+            <metadata fileName="big_chonks\metadata26.dat"/>
+        </component>
+        <component name="Component 12 (1)" id="{EBC9A830-6604-43F8-88A2-745221335F63}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm27.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization27.dat" />
+            <metadata fileName="big_chonks\metadata27.dat"/>
+        </component>
+        <component name="Component 13 (1)" id="{AAF3BE85-61AD-4923-A68F-1D5E6F761CAD}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm28.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization28.dat" />
+            <metadata fileName="big_chonks\metadata28.dat"/>
+        </component>
+        <component name="Component 0 (2)" id="{A4B07C32-7849-4374-B868-33879FA2BB67}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm29.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization29.dat" />
+            <metadata fileName="big_chonks\metadata29.dat"/>
+        </component>
+        <component name="Component 1 (2)" id="{0DC926B0-1E67-4D24-87A9-69CB73B8F8BD}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm30.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization30.dat" />
+            <metadata fileName="big_chonks\metadata30.dat"/>
+        </component>
+        <component name="Component 2 (2)" id="{07EF6E45-16FC-46C7-B0B4-2AB7F1227BE3}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm31.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization31.dat" />
+            <metadata fileName="big_chonks\metadata31.dat"/>
+        </component>
+        <component name="Component 3 (2)" id="{C441B4D6-3F44-4F68-9D33-D9A93DEA594C}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm32.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization32.dat" />
+            <metadata fileName="big_chonks\metadata32.dat"/>
+        </component>
+        <component name="Component 4 (2)" id="{7034A8B1-C1E1-4184-8C04-E982FA16C478}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm33.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization33.dat" />
+            <metadata fileName="big_chonks\metadata33.dat"/>
+        </component>
+        <component name="Component 5 (2)" id="{DFD4E2D4-F957-47E7-9444-CE82EF85D412}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm34.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization34.dat" />
+            <metadata fileName="big_chonks\metadata34.dat"/>
+        </component>
+        <component name="Component 6 (2)" id="{87F61C83-BDA2-4E96-A443-379E3431CD30}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm35.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization35.dat" />
+            <metadata fileName="big_chonks\metadata35.dat"/>
+        </component>
+        <component name="Component 7 (2)" id="{D88793F7-59CA-4F5F-B702-73DBEFCBB92A}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm36.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization36.dat" />
+            <metadata fileName="big_chonks\metadata36.dat"/>
+        </component>
+        <component name="Component 8 (2)" id="{1B110DBF-2F12-4FF2-B338-E54BC6A499B9}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm37.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization37.dat" />
+            <metadata fileName="big_chonks\metadata37.dat"/>
+        </component>
+        <component name="Component 9 (2)" id="{560EF9D0-82D3-49D8-8EB7-EB149700B6C2}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm38.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization38.dat" />
+            <metadata fileName="big_chonks\metadata38.dat"/>
+        </component>
+        <component name="Component 10 (2)" id="{D60BD784-224E-4A92-B2CC-B70F821352CE}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm39.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization39.dat" />
+            <metadata fileName="big_chonks\metadata39.dat"/>
+        </component>
+        <component name="Component 11 (2)" id="{2A5D3D3B-185C-476D-92F4-F6C286103B4A}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm40.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization40.dat" />
+            <metadata fileName="big_chonks\metadata40.dat"/>
+        </component>
+        <component name="Component 12 (2)" id="{AB56D09E-E464-46D5-81E0-7A3A5725ABA1}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm41.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization41.dat" />
+            <metadata fileName="big_chonks\metadata41.dat"/>
+        </component>
+        <component name="Component 13 (2)" id="{27E5D672-D4CA-4A1F-8CB8-572601FF06F5}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm42.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization42.dat" />
+            <metadata fileName="big_chonks\metadata42.dat"/>
+        </component>
+        <component name="Component 14 (1)" id="{E723F6FD-4086-49DE-9FF7-98D56AF39247}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm43.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization43.dat" />
+            <metadata fileName="big_chonks\metadata43.dat"/>
+        </component>
+        <component name="Component 15" id="{AC0C4936-D95E-4C69-B441-63FBDF16BD32}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm44.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization44.dat" />
+            <metadata fileName="big_chonks\metadata44.dat"/>
+        </component>
+        <component name="Component 16" id="{97735E3A-D063-41F4-B765-90DC71CCA17E}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm45.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization45.dat" />
+            <metadata fileName="big_chonks\metadata45.dat"/>
+        </component>
+        <component name="Component 17" id="{8B84D18E-1019-4FCB-A0AA-1FDD86AFCE82}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm46.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization46.dat" />
+            <metadata fileName="big_chonks\metadata46.dat"/>
+        </component>
+        <component name="Component 18" id="{AFFEBD1F-4657-4DA6-8ED2-34AC685E549A}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm47.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization47.dat" />
+            <metadata fileName="big_chonks\metadata47.dat"/>
+        </component>
+        <component name="Component 0 (3)" id="{0E7F2328-75FC-4228-A940-06B9A9148A4E}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm48.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 1 (3)" id="{52A7130A-4DD5-40FD-A62D-E4476FABEEE5}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm49.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 2 (3)" id="{34DE96C8-960D-44D7-8295-11DE7D09103F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm50.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 3 (3)" id="{FB7869A7-389F-43B2-8845-02E31FA6997A}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm51.dat" selectedModel="0" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="big_chonks\colorNormalization48.dat" />
+            <metadata fileName="big_chonks\metadata48.dat"/>
+            <model name="Model 1" fileName="big_chonks\model2.dat" unwrappedArea="1.8862252976508234e+03" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.0354817844927311e-02" texturesUtilization="8.7923336029052734e-01" texelSize="6.8674441426992416e-03" chartsGutterSize="2" averageEdgeLength="4.0176018598749690e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="515B9353-F916-4FFD-A2B8-96F092DBD26Dc0c83cd270df9300589a4c09906700fe" cleanMark="2" selectedTxLayerGuid="{5B151E6B-B7B1-41D8-9715-4A2635349F37}" >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="108" id="{5B151E6B-B7B1-41D8-9715-4A2635349F37}" />
+                </textures>
+            </model>
+        </component>
+        <component name="Component 4 (3)" id="{5F0D5FC0-0E59-4CA1-A3AF-B9A36E7B2BFC}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm52.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 5 (3)" id="{7D6CB283-B274-440E-B078-9C168467D11C}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm53.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 6 (3)" id="{CA8EFC1F-9133-493F-A0A2-039D07D91AED}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm54.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 7 (3)" id="{197980AE-9375-446C-8C2A-D5AAB82B7D71}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm55.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 8 (3)" id="{F05F8AE7-5D28-417A-87B9-AD092C11AF21}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm56.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 9 (3)" id="{20D4E66E-92A8-4D59-BF58-B2638EE3A504}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm57.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 10 (3)" id="{A2F81CBD-5128-43F5-B9AF-A24E4A8DBDB6}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm58.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 11 (3)" id="{A67912E9-9263-449B-8CB1-48FA40F38F23}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm59.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 12 (3)" id="{DB5E83F0-4E58-4A4A-B013-A3032800B128}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm60.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 13 (3)" id="{79AA30F9-87C2-491F-BBF2-27AD439A2A19}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm61.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 14 (2)" id="{455B6C72-3E13-4AEE-B4A2-F89D97621B8E}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm62.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 15 (1)" id="{30AAB2B6-B752-41D3-BB41-4CA333B1288A}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm63.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 16 (1)" id="{613EF210-FA2C-4FD0-8430-45B09E0CB704}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm64.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 17 (1)" id="{199494B9-567C-40DA-83C3-7144C221D14E}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm65.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 18 (1)" id="{6913E884-4407-4B67-8CA5-A6A405E30764}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="big_chonks\sfm66.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="big_chonks\entities0.dat"/>
+    <animation fileName="big_chonks\animation0.dat"/>
+    <controlpoints fileName="big_chonks\controlpoints0.dat"/>
+    <appConfig fileName="big_chonks\appConfig0.dat" />
+</RealityCapture>
